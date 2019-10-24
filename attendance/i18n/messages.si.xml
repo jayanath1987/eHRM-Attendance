@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file source-language="EN" target-language="si" datatype="plaintext" original="messages" date="2009-12-08T13:58:35Z" product-name="messages">
+    <header/>
+    <body>
+      <trans-unit id="1">
+        <source>Define Days</source>
+        <target>දින වර්ග</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Day</source>
+        <target>දිනය</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Day Type</source>
+        <target>දින වර්ගය</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>In Time</source>
+        <target>ඇතුල් වීමේ වේලාව</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Out Time</source>
+        <target>පිටත් වීමේ වේලාව </target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Monday</source>
+        <target>සඳුදා</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Tuesday</source>
+        <target>අඟහරුවාදා</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Wednesday</source>
+        <target>බදාදා</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Thursday</source>
+        <target>බ්‍රහස්පතින්දා</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Friday</source>
+        <target>සිකුරාදා</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Saturday</source>
+        <target>සෙනසුරාදා</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Sunday</source>
+        <target>ඉරිදා</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>View Employee Attendance</source>
+        <target>සේවක පැමිණීම බැලීම </target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Late</source>
+        <target>ප්‍රමාද වීම</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Early Departure</source>
+        <target>කලින් පිටත් වීම</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Please Enter From Date</source>
+        <target>කරුණාකර ආරම්භක දිනය ඇතුලත් කරන්න</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Please Enter To Date</source>
+        <target>කරුණාකර අවසන් දිනය ඇතුලත් කරන්න.</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Import Attendance Data</source>
+        <target>පැමිණීමේ දත්ත ඇතුල් කිරීම</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>MS SQL Server</source>
+        <target>ඵස්. කිව්.ඵල්</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>MS Access</source>
+        <target>ඵම්. ඇස් ඇක්සස්</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>MS Excel</source>
+        <target>ඵම්. ඇස් ඵක්සෙල්</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Text</source>
+        <target>ටෙක්ස්ට්</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Upload Text file</source>
+        <target>ටෙක්ස්ට් දත්ත එක් කරන්න</target>
+      </trans-unit>
+     <trans-unit id="116">
+        <source>Upload MS Excel file</source>
+        <target>ොජනම</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>process</source>
+        <target>සැකසීම</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Save</source>
+        <target>සුරකින්න</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Define Day Types</source>
+        <target>දින වර්ග නිර්වචනය</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Employee Attendance</source>
+        <target>සේවක පැමිණීම</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Employee Attendance Summary</source>
+        <target>සේවක පැමිණීම් සාරාංශය</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Leave Type</source>
+        <target>නිවාඩු වර්ගය</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Upload</source>
+        <target>උඩුගත කරන්න</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Please select the Search Within</source>
+        <target>ොජනම</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Please select the Serach In</source>
+        <target>ොජනම</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Download Configuration</source>
+        <target>භාගත රූපණය </target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Text File Configuration</source>
+        <target>ටෙක්ස්ට් ගොනු  රූපණය</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Start Position</source>
+        <target>ආරම්භක ස්ථානය</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>End Position</source>
+        <target>අවසාන ස්ථානය</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Holiday</source>
+        <target>නිවාඩු දින</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>HalfDay</source>
+        <target>එක්වරු</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>FullDay</source>
+        <target>පූර්ණ දින</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Data Upload</source>
+        <target>දත්ත උඩුගත කරන්න</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Attendance No</source>
+        <target>පැමිණීමේ අංකය</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>(Date) Year</source>
+        <target>( දිනය ) වර්ෂය</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>(Date) Month</source>
+        <target>( දිනය ) මාසය</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>(Date) Date</source>
+        <target>( දිනය ) දිනය</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>(Time) HH</source>
+        <target>( වේලාව ) පැය</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>(Time) MM</source>
+        <target>( වේලාව ) මිනිත්තු</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Invalid Date In Out Time</source>
+        <target>වේලාව වැරදිය</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Please Edit In Time Hours</source>
+        <target>ඇතුල්වීමේ වේලාව සංස්කරණය ( පැය ) කරන්න</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Please Edit In Time Minutes</source>
+        <target>ඇතුල්වීමේ වේලාව සංස්කරණය ( මිනිත්තු ) කරන්න</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Please Edit Out Time Hours</source>
+        <target>පිටත්වීමේ වේලාව සංස්කරණය ( පැය ) කරන්න</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Please Edit Out Time Minutes</source>
+        <target>පිටත්වීමේ වේලාව සංස්කරණය ( මිනිත්තු ) කරන්න</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Plese select Day type on </source>
+        <target>දින වර්ගය තෝරන්න </target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Plese enter shift In Time on </source>
+        <target>ඇතුල්වීමේ වේලාව තෝරන්න </target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Plese enter shift Out Time on </source>
+        <target>පිටත්වීමේ වේලාව තෝරන්න </target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Plese select shift Time Minutes on </source>
+        <target>මිනිත්තු ඇතුලත් කරන්න </target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Plese select shift Time Hours on </source>
+        <target>පැය ඇතුලත් කරන්න </target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Damaged Text file or data Format Error</source>
+        <target>ටෙක්ස්ට් ගොනුව හෝ දත්ත වැරදිය</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Successfully Text file Data Updated</source>
+        <target>සාර්ථක ලෙස ටෙක්ස්ට් ගොනුවේ දත්ත යාවත්කාලීන කරන ලදී.</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Successfully Time Data Uploaded</source>
+        <target>සාර්ථක ලෙස පැමිණීමේ දත්ත උඩුගත කරන ලදී.</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Please select Time In and Time Out on </source>
+        <target>ඇතුල් වීමේ වේලාව හා පිටත්වීමේ වේලාව වැරදිය </target>
+      </trans-unit>
+      </body>
+  </file>
+</xliff>
+

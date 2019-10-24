@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file source-language="EN" target-language="ta" datatype="plaintext" original="messages" date="2009-12-08T13:58:35Z" product-name="messages">
+    <header/>
+    <body>
+       <trans-unit id="1">
+        <source>Define Days</source>
+        <target>நாட்களை விபரித்தல்</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Day</source>
+        <target>நாள்</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Day Type</source>
+        <target>நாளின் வகை</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>In Time</source>
+        <target>உள்வரும் நேரம்</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Out Time</source>
+        <target>வெளிச் செல்லும் நேரம்</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Monday</source>
+        <target>திங்கள்</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Tuesday</source>
+        <target>செவ்வாய்</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Wednesday</source>
+        <target>புதன்</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Thursday</source>
+        <target>வியாழன்</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Friday</source>
+        <target>வெள்ளி</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Saturday</source>
+        <target>னடேத்</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Sunday</source>
+        <target>ஞாயிறு</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>View Employee Attendance</source>
+        <target>ஊழியர் வரவு இடாப்பை பார்த்தல்</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Late</source>
+        <target>தாமதம்</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>Early Departure</source>
+        <target>முன் புறப்பாடு</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Please Enter From Date</source>
+        <target>இருந்தான திகதியை உட்செளுத்தவும்</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Please Enter To Date</source>
+        <target>இற்கான திகதியை உட்செளுத்தவும்</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Import Attendance Data</source>
+        <target>இடாப்பு தரவுகளை இறக்குமதி செய்தல்</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>MS SQL Server</source>
+        <target>எம்.எஸ் எஸ்.கிவ்.எல் சேவர்</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>MS Access</source>
+        <target>எம்.எஸ் எக்சஸ்</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>MS Excel</source>
+        <target>எம்.எஸ் எக்சல்</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Text</source>
+        <target>உரைப்பகுதி</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Upload Text file</source>
+        <target>உரைப்பகுதி கோப்பை ஏற்றுதல்</target>
+      </trans-unit>
+     <trans-unit id="116">
+        <source>Upload MS Exel file</source>
+        <target>எம்.எஸ் எக்சல் கோப்பை ஏற்றுதல்</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>process</source>
+        <target>செயல்முறை</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Save</source>
+        <target>சேமி</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Define Day Types</source>
+        <target>நாள் வகையை விபரித்தல்</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Employee Attendace</source>
+        <target>ஊழியர் வருகைப் பதிவேடு</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Employee Attendance Summary</source>
+        <target>ஊழியர் வரவுப் பதிவேடு சுருக்கம் </target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Please select the Serach In</source>
+        <target>தேடுவதற்குரிய தொகுதியை தெரிவு செய்யவும்</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Download Configuration</source>
+        <target>அமைவடிவத்தை இறக்குமதி செய்தல் </target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Text File Configuration</source>
+        <target>உரைப்பகுதி கோப்பை அமைவடிவம்</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Start Position</source>
+        <target>துவக்கம்</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>End Position</source>
+        <target>முடிவு</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Holiday</source>
+        <target>விடுமுறை</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>HalfDay</source>
+        <target>அரை நாள்</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>FullDay</source>
+        <target>முழு நாள்</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Data Upload</source>
+        <target>தரவுகள் மேலேற்று</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Attendance No</source>
+        <target>வருகைப் பதிவேடு எண்</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>(Date) Year</source>
+        <target>(திகதி) ஆண்டு</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>(Date) Month</source>
+        <target>(திகதி) மாதம்</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>(Date) Date</source>
+        <target>(திகதி) திகதி</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>(Time) HH</source>
+        <target>(திகதி) மணி நேரம்</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>(Time) MM</source>
+        <target>(திகதி) நிமிடம்</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Invalid Date In Out Time</source>
+        <target>தவறான திகதி உள் வெளிச்செல்லும் நேரம்</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Please Edit In Time Hours</source>
+        <target>உள்வந்த நேரத்தை புதுப்பித்தல் </target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Please Edit In Time Minutes</source>
+        <target>உள்வந்த நிமிடத்தை புதுப்பித்தல் </target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Please Edit Out Time Hours</source>
+        <target>வெளிச் சென்ற நேரத்தை புதுப்பித்தல்</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Please Edit Out Time Minutes</source>
+        <target>வெளிச் சென்ற நிமிடத்தை புதுப்பித்தல்</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Plese select Day type on </source>
+        <target>நாள் வகையை தெரிவு செய்யவும்</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Plese enter shift In Time on </source>
+        <target>மாற்று நேர உள்வந்த நேரத்தை உட்செளுத்தவும் </target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Plese enter shift Out Time on </source>
+        <target>மாற்று நேர வெளிச் சென்ற நேரத்தை உட்செளுத்தவும் </target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Plese select shift Time Minutes on </source>
+        <target>மாற்று நேர உள்வந்த நிமிடத்தை  உட்செளுத்தவும் </target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Plese select shift Time Hours on </source>
+        <target>தயவு செய்து மாற்று நேர மணித்தியாலத்தை தெரிவு செய்யவும்</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Damaged Text file or data Format Error</source>
+        <target>கோளாறுள்ள உரைப்பகுதி கோப்பு / தவறான தகவல் கட்டமைப்பு </target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Successfully Text file Data Updated</source>
+        <target>உரைப்பகுதி கோப்பு வெற்றிகரமாக சேர்க்கப்பட்டது</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Successfully Time Data Uploaded</source>
+        <target>நேர தகவல் வெற்றிகரமாக சேர்க்கப்பட்டது</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Please select Time In and Time Out on </source>
+        <target>தயவு செய்து உள்வந்த மற்றும் வெளிச்  சென்ற நேரங்களை தெரிவு செய்யவும்</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Start and End position can not be blank </source>
+        <target>ஆரம்ப மற்றும் முடுவு நிலை வெற்றிடமாக இருக்க முடியாது</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Upload</source>
+        <target>மேலேற்றம்</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
+
+    
